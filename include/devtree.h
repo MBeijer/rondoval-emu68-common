@@ -1,6 +1,7 @@
 #ifndef DEV_TREE_H
 #define DEV_TREE_H
 
+#include <stdint.h>
 #ifdef __INTELLISENSE__
 #include <clib/devicetree_protos.h>
 #else

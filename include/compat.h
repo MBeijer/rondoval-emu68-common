@@ -2,6 +2,7 @@
 #ifndef _COMPAT_H
 #define _COMPAT_H
 
+#include <stdint.h>
 #include <exec/types.h>
 
 #define EINVAL 1
