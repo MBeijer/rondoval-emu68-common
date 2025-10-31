@@ -1,11 +1,7 @@
 #ifdef __INTELLISENSE__
 #include <clib/exec_protos.h>
-#include <clib/devicetree_protos.h>
-#include <clib/utility_protos.h>
 #else
 #include <proto/exec.h>
-#include <proto/devicetree.h>
-#include <proto/utility.h>
 #endif
 
 #include <exec/types.h>
